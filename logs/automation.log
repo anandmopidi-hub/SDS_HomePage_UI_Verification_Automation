@@ -1,0 +1,147 @@
+2026-09-03 14:33:30 [INFO] (conftest.py:80) Pytest session started at 2026-09-03 14:33:30
+2026-09-03 14:33:31 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:33:31 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:33:35 [INFO] (test_home_page.py:22) --- Test: Cookie Bar Elements ---
+2026-09-03 14:33:39 [INFO] (result_tracker.py:104) [PASS] Cookie Bar > Close Cookie Bar Button (Button): Button is visible and clickable
+2026-09-03 14:33:39 [INFO] (result_tracker.py:104) [PASS] Cookie Bar > Privacy Policy Link (Link): Link is visible and clickable
+2026-09-03 14:33:39 [INFO] (result_tracker.py:104) [PASS] Cookie Bar > Custom Settings Button (Button): Button is visible and clickable
+2026-09-03 14:33:39 [INFO] (result_tracker.py:104) [PASS] Cookie Bar > Decline Cookies Button (Button): Button is visible and clickable
+2026-09-03 14:33:44 [INFO] (result_tracker.py:104) [PASS] Cookie Bar > I agree Button (Button): Cookie banner dismissed successfully
+2026-09-03 14:33:45 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_001_01_cookie_bar_elements_PASS_20260903_143344_810.png
+2026-09-03 14:33:45 [INFO] (result_tracker.py:131) Test Case [TC_HOME_001] Cookie Bar Verification completed with status: PASS (00:13)
+2026-09-03 14:33:45 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:33:45 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:33:50 [INFO] (test_home_page.py:122) --- Test: Header Elements ---
+2026-09-03 14:33:52 [INFO] (result_tracker.py:104) [PASS] Header > Store Logo Link (Link): Home Page loaded successfully
+2026-09-03 14:33:54 [INFO] (result_tracker.py:104) [PASS] Header > Silhouette America Logo Link (Link): Silhouette America page loaded successfully
+2026-09-03 14:33:57 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:33:57 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:33:58 [INFO] (result_tracker.py:104) [PASS] Header > Search Bar Input & Submission (Input/Search): Catalog search results loaded
+2026-09-03 14:33:59 [INFO] (result_tracker.py:104) [PASS] Header > Header Wishlist Icon (Link/Trigger): Wishlist triggered successfully (URL: https://www.silhouettedesignstore.com/)
+2026-09-03 14:34:01 [INFO] (result_tracker.py:104) [PASS] Header > Sign In / Register Dropdown Link (Link/Trigger): Sign in & Register options revealed
+2026-09-03 14:34:04 [INFO] (result_tracker.py:104) [PASS] Header > Mini-Cart Link & Drawer (Link/Drawer): Cart drawer opened and closed successfully
+2026-09-03 14:34:04 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_002_02_header_elements_PASS_20260903_143404_053.png
+2026-09-03 14:34:04 [INFO] (result_tracker.py:131) Test Case [TC_HOME_002] Header Verification completed with status: PASS (00:18)
+2026-09-03 14:34:04 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:04 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:09 [INFO] (test_home_page.py:259) --- Test: Main Navigation Menu ---
+2026-09-03 14:34:11 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Software (opens in new tab) (Nav Link): Opened in new tab successfully
+2026-09-03 14:34:14 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Designs Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/designs.html
+2026-09-03 14:34:14 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:14 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:17 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Fonts Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/fonts.html
+2026-09-03 14:34:17 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:17 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:20 [INFO] (result_tracker.py:104) [PASS] Main Navigation > 3D Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/3d-design.html
+2026-09-03 14:34:20 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:20 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:23 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Patterns Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/designs/borders-backgrounds/printable-backgrounds.html
+2026-09-03 14:34:23 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:23 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:26 [INFO] (result_tracker.py:104) [PASS] Main Navigation > New Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/new.html
+2026-09-03 14:34:26 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:26 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:29 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Design Bundles Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/design-bundles.html
+2026-09-03 14:34:29 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:29 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:31 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Buy Credits Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/get-credits/credit-boosts.html
+2026-09-03 14:34:31 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:31 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:35 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Subscription Plans Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/design-credits/subscription-plans
+2026-09-03 14:34:35 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:35 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:40 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Artists Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/artist
+2026-09-03 14:34:40 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:40 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:44 [INFO] (result_tracker.py:104) [PASS] Main Navigation > Free Trial Menu Link (Nav Link): Loaded https://www.silhouettedesignstore.com/design-credits/subscription/cart/sub/free
+2026-09-03 14:34:44 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:44 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:46 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_003_03_main_navigation_links_PASS_20260903_143445_800.png
+2026-09-03 14:34:46 [INFO] (result_tracker.py:131) Test Case [TC_HOME_003] Navigation Verification completed with status: PASS (00:41)
+2026-09-03 14:34:46 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:46 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:51 [INFO] (test_home_page.py:324) --- Test: Hero Carousel Controls & Links ---
+2026-09-03 14:34:51 [INFO] (test_home_page.py:331) Found 7 carousel slide dots
+2026-09-03 14:34:54 [INFO] (result_tracker.py:104) [PASS] Hero Carousel > Slide Pagination Dot 2 (Button): Slide transition executed
+2026-09-03 14:34:56 [INFO] (result_tracker.py:104) [PASS] Hero Carousel > Next Slide Button (Button): Carousel advanced to next slide
+2026-09-03 14:34:57 [INFO] (result_tracker.py:104) [PASS] Hero Carousel > Previous Slide Button (Button): Carousel returned to previous slide
+2026-09-03 14:34:59 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:34:59 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:01 [INFO] (result_tracker.py:104) [PASS] Hero Carousel > Active Banner Image/Link (Banner Link): Campaign page loaded successfully: https://www.silhouettedesignstore.com/designs/words-phrases/words.html
+2026-09-03 14:35:01 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_004_04_hero_carousel_controls_and_links_PASS_20260903_143501_058.png
+2026-09-03 14:35:01 [INFO] (result_tracker.py:131) Test Case [TC_HOME_004] Hero Carousel Verification completed with status: PASS (00:14)
+2026-09-03 14:35:01 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:01 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:05 [INFO] (test_home_page.py:415) --- Test: Discovery & Filter Section ---
+2026-09-03 14:35:07 [INFO] (result_tracker.py:104) [PASS] Discovery & Filters > Discovery Category Tab ('Subscribers Only') (Tab/Button): Product list updated for selected discovery category
+2026-09-03 14:35:08 [INFO] (result_tracker.py:104) [PASS] Discovery & Filters > Design Type Filter ('Regular Cut') (Filter/Button): Product list updated for selected design type
+2026-09-03 14:35:09 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:09 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:10 [INFO] (result_tracker.py:104) [PASS] Discovery & Filters > Discovery 'View all' Link (Link): Navigated to https://www.silhouettedesignstore.com/
+2026-09-03 14:35:11 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_005_05_discovery_and_filter_elements_PASS_20260903_143510_544.png
+2026-09-03 14:35:11 [INFO] (result_tracker.py:131) Test Case [TC_HOME_005] Discovery & Category Filters completed with status: PASS (00:08)
+2026-09-03 14:35:11 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:11 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:15 [INFO] (test_home_page.py:494) --- Test: Featured Product Cards ---
+2026-09-03 14:35:16 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:16 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:17 [INFO] (result_tracker.py:104) [PASS] Featured Products > Product Image Link (Card Link): PDP opened: https://www.silhouettedesignstore.com/spooky-cats-3d-bundle-jka.html
+2026-09-03 14:35:18 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:18 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:19 [INFO] (result_tracker.py:104) [PASS] Featured Products > Product Title Link (Card Link): PDP opened: https://www.silhouettedesignstore.com/spooky-cats-3d-bundle-jka.html
+2026-09-03 14:35:23 [INFO] (result_tracker.py:104) [PASS] Featured Products > Product Artist Shop Link (Link): Artist shop opened: https://www.silhouettedesignstore.com/marketplace/seller/profile/shop/sweet-afton
+2026-09-03 14:35:25 [INFO] (result_tracker.py:104) [PASS] Featured Products > Product Add to Cart Button (Button): Add to Cart action triggered successfully
+2026-09-03 14:35:25 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:25 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:26 [INFO] (result_tracker.py:104) [PASS] Featured Products > Product Wishlist Button (Button/Link): Wishlist action routed to https://www.silhouettedesignstore.com/
+2026-09-03 14:35:26 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_006_06_featured_product_cards_PASS_20260903_143526_419.png
+2026-09-03 14:35:26 [INFO] (result_tracker.py:131) Test Case [TC_HOME_006] Product Cards Verification completed with status: PASS (00:15)
+2026-09-03 14:35:26 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:26 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:31 [INFO] (test_home_page.py:606) --- Test: Design Store Artists Section ---
+2026-09-03 14:35:36 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:36 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:37 [INFO] (result_tracker.py:104) [PASS] Design Store Artists > Featured Artist Profile Link (Link): Artist storefront loaded: https://www.silhouettedesignstore.com/marketplace/seller/profile/shop/rivka-wilkins
+2026-09-03 14:35:39 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:39 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:39 [INFO] (result_tracker.py:104) [PASS] Design Store Artists > Artists 'View all' Link (Link): All Artists directory loaded: https://www.silhouettedesignstore.com/marketplace/seller/sellerlist
+2026-09-03 14:35:40 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_007_07_featured_artists_section_PASS_20260903_143539_995.png
+2026-09-03 14:35:40 [INFO] (result_tracker.py:131) Test Case [TC_HOME_007] Artists Section Verification completed with status: PASS (00:13)
+2026-09-03 14:35:40 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:40 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:44 [INFO] (test_home_page.py:656) --- Test: Bundles Section ---
+2026-09-03 14:35:46 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:46 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:46 [INFO] (result_tracker.py:104) [PASS] Design Bundles > Bundle Card Link (Card Link): Bundle details loaded: https://www.silhouettedesignstore.com/spooky-cats-3d-bundle-jka.html
+2026-09-03 14:35:49 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:49 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:50 [INFO] (result_tracker.py:104) [PASS] Design Bundles > Bundles 'View all' Link (Link): Bundles catalog loaded: https://www.silhouettedesignstore.com/design-bundles.html
+2026-09-03 14:35:50 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_008_08_bundles_section_PASS_20260903_143550_130.png
+2026-09-03 14:35:50 [INFO] (result_tracker.py:131) Test Case [TC_HOME_008] Bundles Section Verification completed with status: PASS (00:09)
+2026-09-03 14:35:50 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:50 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:54 [INFO] (test_home_page.py:705) --- Test: Promotional CTA Banner ---
+2026-09-03 14:35:55 [INFO] (result_tracker.py:104) [REQUIREMENT CONFIRMATION NEEDED] Promotional Banner > 'Become An Artist' CTA Button (CTA Link): Element is visible and clickable with href='/artist-application', but in guest session URL remained on Home Page (https://www.silhouettedesignstore.com/). Confirmation needed from product team on guest routing behavior.
+2026-09-03 14:35:56 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_009_09_promotional_cta_banner_REQUIREMENT CONFIRMATION NEEDED_20260903_143555_876.png
+2026-09-03 14:35:56 [INFO] (result_tracker.py:131) Test Case [TC_HOME_009] Promotional CTA Banner Verification completed with status: REQUIREMENT CONFIRMATION NEEDED (00:05)
+2026-09-03 14:35:56 [INFO] (home_page.py:17) Opening Home Page: https://www.silhouettedesignstore.com/
+2026-09-03 14:35:56 [INFO] (base_page.py:11) Navigating to URL: https://www.silhouettedesignstore.com/
+2026-09-03 14:36:00 [INFO] (test_home_page.py:742) --- Test: Footer & Support Elements ---
+2026-09-03 14:36:01 [INFO] (result_tracker.py:104) [PASS] Footer > Newsletter Input & Subscribe (Input/Button): Subscription form submitted
+2026-09-03 14:36:02 [INFO] (result_tracker.py:104) [PASS] Footer > Help Accordion & FAQ Link (Accordion/Link): FAQ link visible and clickable
+2026-09-03 14:36:02 [INFO] (result_tracker.py:104) [PASS] Footer > Footer Sitemap Link (Link): Sitemap link is visible and clickable
+2026-09-03 14:36:02 [INFO] (result_tracker.py:104) [PASS] Footer > Footer Blog Link (Link): Blog link is visible and clickable
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > Legal Accordion & Privacy Link (Accordion/Link): Privacy Policy link visible and clickable
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > Terms of Use Link (Link): Terms link is visible and clickable
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > Contact Support Email Link (Email Link): Support email link verified
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > Facebook Social Link (Social Link): Link targets facebook.com/silhouetteglobal
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > Twitter / X Social Link (Social Link): Link targets twitter.com/silhouetteam
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > Pinterest Social Link (Social Link): Link targets pinterest.com/silhouetteinc
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > Instagram Social Link (Social Link): Link targets instagram.com/silhouette.inc
+2026-09-03 14:36:03 [INFO] (result_tracker.py:104) [PASS] Footer > YouTube Social Link (Social Link): Link targets youtube.com/user/SilhouetteAmericaInc
+2026-09-03 14:36:04 [INFO] (result_tracker.py:104) [PASS] Floating Widgets > Support Chatbot Widget (Widget/Button): Chatbot widget opened and closed successfully
+2026-09-03 14:36:04 [INFO] (screenshot_manager.py:36) Captured screenshot: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\screenshots\TC_HOME_010_10_footer_and_support_elements_PASS_20260903_143604_400.png
+2026-09-03 14:36:04 [INFO] (result_tracker.py:131) Test Case [TC_HOME_010] Footer Elements Verification completed with status: PASS (00:08)
+2026-09-03 14:36:04 [INFO] (conftest.py:201) Test session finished. Generating element verification table.
+2026-09-03 14:36:07 [INFO] (report_generator.py:70) Successfully generated custom HTML dashboard report at: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\reports/home_page_report.html
+2026-09-03 14:36:08 [INFO] (conftest.py:211) Custom SDS Dashboard Report successfully generated at: C:\Users\Anand_Mopidi\Documents\Silhouette AI Automation\reports/home_page_report.html

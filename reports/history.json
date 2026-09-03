@@ -1,0 +1,32 @@
+[
+  {
+    "date": "03-Sep-2026",
+    "time": "14:32:27",
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "requirement": 0,
+    "duration": "00:19",
+    "is_current": false
+  },
+  {
+    "date": "03-Sep-2026",
+    "time": "14:33:14",
+    "total": 1,
+    "passed": 0,
+    "failed": 0,
+    "requirement": 1,
+    "duration": "00:07",
+    "is_current": false
+  },
+  {
+    "date": "03-Sep-2026",
+    "time": "14:33:30",
+    "total": 10,
+    "passed": 9,
+    "failed": 0,
+    "requirement": 1,
+    "duration": "02:33",
+    "is_current": true
+  }
+]
